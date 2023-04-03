@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "01GX3GS3N5Y8ND3YKSND6WN54Y",
+      "content": "TypeScriptを勉強",
+      "done": false
+    },
+    {
+      "id": "01GX3GSN7N4Y5WFMN4SRX6CJGA",
+      "content": "vite調べる",
+      "done": false
+    },
+    {
+      "id": "01GX3GTYF0APTXH3Q60ZBBDAAE",
+      "content": "寝る",
+      "done": true
+    },
+    {
+      "id": "01GX3KA983YA4T8ZP9FK3XXXD3",
+      "content": "GitHubにプッシュ",
+      "done": false
+    }
+  ]
+}
